@@ -44,6 +44,13 @@ To understand **why** a model made a specific prediction, LIME was used to gener
 
 ---
 
+✍️ Author
+Anjali Singh
+
+Feel free to reach out or open issues/pull requests to contribute or ask questions!
+
+
+
 ## 🧪 Requirements
 
 Install dependencies using:
